@@ -1,0 +1,29 @@
+PODS:
+  - PagingMenuController (1.1.2)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - SwiftHTTP (1.0.5)
+
+DEPENDENCIES:
+  - PagingMenuController
+  - SDWebImage
+  - SwiftHTTP (from `https://github.com/daltoniam/SwiftHTTP`)
+
+EXTERNAL SOURCES:
+  SwiftHTTP:
+    :git: https://github.com/daltoniam/SwiftHTTP
+
+CHECKOUT OPTIONS:
+  SwiftHTTP:
+    :commit: b73aa45f460a8fe5cd4cce857a6ce13d175000f9
+    :git: https://github.com/daltoniam/SwiftHTTP
+
+SPEC CHECKSUMS:
+  PagingMenuController: a47a9669760b95f630cc3ef28bdce104f9107d14
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SwiftHTTP: edb45e72f27d1d95d328d2b2c16a61aa94f1e9f7
+
+PODFILE CHECKSUM: 93f66d1e06be583093b7bb22f24412ee4d1cbab3
+
+COCOAPODS: 1.0.1
